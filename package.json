@@ -1,5 +1,5 @@
 {
-  "name": "user-script-lib",
+  "name": "userscripts",
   "fullName": "User Script Modules",
   "description": "A collection of user script modules.",
   "keywords": ["userscript", "user script", "javascript", "greasemonkey",

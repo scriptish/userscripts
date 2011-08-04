@@ -4,3 +4,6 @@
 // @include      http://erikvold.com/*
 // @exclude      *google*
 // ==/UserScript==
+
+
+alert("test");
