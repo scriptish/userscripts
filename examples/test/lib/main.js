@@ -6,7 +6,7 @@ var {UserScript} = require("userscript");
 
 exports.main = function() {
   scripts.forEach(function(scriptName, index) {
-    UserScript(self.data.url(scriptName));
+    var script = UserScript(self.data.url(scriptName));
   });
 };
 

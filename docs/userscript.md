@@ -30,6 +30,12 @@ Creates a user script.
   `resource:`, `file:`, or `chrome:` for example.
 </api>
 
+<api name="enabled">
+@property
+Allows one to get and change the status of the a user script. A disabled user
+script will not be injected in to newly opened windows.
+</api>
+
 <api name="destroy">
 @method
 The user script will no longer be injected into new windows, you will have to
