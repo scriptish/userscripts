@@ -5,6 +5,7 @@
   "keywords": ["userscript", "user script", "javascript", "greasemonkey",
                "scriptish"],
   "author": "Erik Vold <erikvvold@gmail.com>",
+  "homepage": "https://github.com/scriptish/userscripts-jetpack-package",
   "contributors": [],
   "version": "0.0.2a1pre",
   "license": "MIT/X11",
