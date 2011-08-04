@@ -1,7 +1,12 @@
 {
-  "description": "User Script Modules",
+  "name": "user-script-lib",
+  "fullName": "User Script Modules",
+  "description": "A collection of user script modules.",
+  "keywords": ["userscript", "user script", "javascript", "greasemonkey",
+               "scriptish"],
   "author": "Erik Vold <erikvvold@gmail.com>",
-  "version": "0.0.1",
-  "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+  "contributors": [],
+  "version": "0.0.2a1pre",
+  "license": "MIT/X11",
   "dependencies": ["addon-kit", "api-utils", "vold-utils"]
 }
