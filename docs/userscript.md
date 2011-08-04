@@ -31,7 +31,7 @@ Creates a user script.
 </api>
 
 <api name="enabled">
-@property
+@property {Boolean}
 Allows one to get and change the status of the a user script. A disabled user
 script will not be injected in to newly opened windows.
 </api>
