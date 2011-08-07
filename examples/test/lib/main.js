@@ -9,4 +9,3 @@ exports.main = function() {
     var script = UserScript(self.data.url(scriptName));
   });
 };
-
