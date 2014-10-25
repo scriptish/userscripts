@@ -1,16 +1,13 @@
-# User Scripts Jetpack Package
+# userscripts  [![Build Status](https://travis-ci.org/scriptish/userscripts.png)](https://travis-ci.org/scriptish/userscripts)
+
+[![NPM](https://nodei.co/npm/userscripts.png?stars&downloads)](https://nodei.co/npm/userscripts/)
+[![NPM](https://nodei.co/npm-dl/userscripts.png)](https://nodei.co/npm/userscripts)
 
 ## About
 
 This package contains modules which allow one to easily package user scripts within their addon using the Add-on SDK.  The package can also be used to convert a user script into a add-on.
 
 The module of particualy importance is the `userscript` module, which directly allows a consumer to 'create'/initialize/load user scripts.
-
-## Dependencies
-
-* [vold-utils](https://github.com/erikvold/vold-utils-jplib)
-* addon-kit (shipped with Add-on SDK)
-* api-utils (shipped with Add-on SDK)
 
 ## Example
 

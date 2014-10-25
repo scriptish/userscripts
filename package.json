@@ -1,13 +1,19 @@
 {
   "name": "userscripts",
-  "fullName": "User Script Modules",
   "description": "A collection of user script modules.",
-  "keywords": ["userscript", "user script", "javascript", "greasemonkey",
-               "scriptish"],
+  "keywords": [
+    "userscript",
+    "user script",
+    "javascript",
+    "greasemonkey",
+    "scriptish"
+  ],
   "author": "Erik Vold <erikvvold@gmail.com>",
   "homepage": "https://github.com/scriptish/userscripts-jetpack-package",
-  "contributors": [],
-  "version": "0.0.2a1pre",
+  "contributors": [
+  ],
+  "main": "./userscript.js",
+  "version": "0.0.3",
   "license": "MIT/X11",
   "dependencies": ["addon-kit", "api-utils", "vold-utils"]
 }
