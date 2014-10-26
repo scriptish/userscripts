@@ -13,7 +13,6 @@
   "contributors": [
   ],
   "main": "./userscript.js",
-  "version": "0.0.3",
-  "license": "MIT/X11",
-  "dependencies": ["addon-kit", "api-utils", "vold-utils"]
+  "version": "0.0.4",
+  "license": "MIT/X11"
 }
