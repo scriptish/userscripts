@@ -1,4 +1,5 @@
 # userscripts  [![Build Status](https://travis-ci.org/scriptish/userscripts.png)](https://travis-ci.org/scriptish/userscripts)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/scriptish/userscripts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![NPM](https://nodei.co/npm/userscripts.png?stars&downloads)](https://nodei.co/npm/userscripts/)
 [![NPM](https://nodei.co/npm-dl/userscripts.png)](https://nodei.co/npm/userscripts)
